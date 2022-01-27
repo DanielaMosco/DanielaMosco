@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://https://github.com/DanielaMosco)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielamosco//)
 
-I am Daniela, an Industrial Engineer and Data Analyst / Data Scientist in the making!
+I am Daniela, an Industrial Engineer turned into Data Analyst and a Data Scientist in the making!
 
 <img align="right" alt="gif" src="https://user-images.githubusercontent.com/98499583/151403856-b0722289-988d-4a94-8b9f-33e8d2503ce0.gif" width="40%" height="auto" />
 
